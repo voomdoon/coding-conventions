@@ -3,7 +3,7 @@
 ## Types
 
 - `TODO`
-  - MUST have a reference to an open issue
+  - MUST have a reference to an open issue (preferably tagged with `enhancement`)
 - `FEATURE`
   - MUST have a reference to an open issue (preferably tagged with `feature`)
 - `FIXME`
