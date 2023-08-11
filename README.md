@@ -1,1 +1,1 @@
-# -coding-conventions
+# coding-conventions
