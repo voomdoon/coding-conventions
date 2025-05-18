@@ -1,5 +1,12 @@
 # coding-conventions
 
+## Coding principles
+
+- TDD
+- DRY
+- meaningful and descriptive names
+
+
 ## TODO types
 
 - `TODO`
