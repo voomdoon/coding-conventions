@@ -1,6 +1,6 @@
 # coding-conventions
 
-## Types
+## TODO types
 
 - `TODO`
   - MUST have a reference to an open issue (preferably tagged with `enhancement`)
@@ -12,3 +12,6 @@
   - Indicates incomplete JavaDoc.
 - `TESTME`
   - Indicates missing test coverage.
+  - Editing might be risky. 
+- `XXX`
+  - Something is unclear. 
